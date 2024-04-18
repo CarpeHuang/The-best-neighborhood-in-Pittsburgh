@@ -1,0 +1,6 @@
+name: Final Projects
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - vim
